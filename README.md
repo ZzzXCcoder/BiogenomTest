@@ -2,6 +2,9 @@
 Проект реализует хранение и выдачу результатов оценки качества питания: общий результат (AssessmentResult) и баллы по отдельным нутриентам (NutrientScore). Используется PostgreSQL через EF Core, реализованы контроллеры, сервисы и репозитории. Авторизация не требуется — всё работает с одним пользователем и только с последним результатом. Диаграмма в самом проекте
 https://disk.yandex.ru/d/YJvHFjpXLKt9EQ ГАЙДЫ
 
+https://disk.yandex.ru/d/HqPmnzlqkv6I5g Видосы все необходимое 26.10.2026
+
+
 https://disk.yandex.ru/d/52HM9vc9ZnQnpQ
 
 https://disk.yandex.ru/d/HqPmnzlqkv6I5g
